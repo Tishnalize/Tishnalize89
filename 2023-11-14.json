@@ -1,0 +1,26 @@
+{
+  "name": "Maria Morton",
+  "age": 44,
+  "address": {
+    "street": "Cakom Square",
+    "city": "Avehenaz",
+    "state": "CO",
+    "zip": "27527"
+  },
+  "contact": {
+    "phone": "(209) 344-4091",
+    "servicePhone": "800492936"
+  },
+  "birthday": "1991-10-16T04:53:54.540Z",
+  "ip": "89.189.38.248",
+  "foo": "bar",
+  "profile": {
+    "about": "Ugo kozom ziige zup vekhifore jiskabu wiuh vet uto waif remuwu kug fifu amicaam kaigne. Nun kizlet sovof uhhaspub duluz lit mavnujgi cu garufawi mi meha virowudoh zubfuhde likoc. Ena ijhi asmo huwjivre pisubkik piokide foz caefo vas tunluliv agbasu zi aherogu jes.",
+    "bio": "Egujuzop ve kifarba jauzizoc feh efovov lehem ma hewfesze jaccibda bokok do. Japfaf hulzopse buv dofof zilov kuol kacaf loce let tazruvci gajfo osa utpahwir. Ahloc woc muhe va senho wub jafhet awekojra wivajza gu ut me heka."
+  },
+  "apiKey": "2551288edd13820410f396bfca7dd8b196c3497b2c3106ee17a8479c92424361",
+  "currency": {
+    "code": "LAK",
+    "name": "Laos Kip"
+  }
+}
