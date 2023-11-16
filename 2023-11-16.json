@@ -1,0 +1,26 @@
+{
+  "name": "Melvin McCarthy",
+  "age": 45,
+  "address": {
+    "street": "Awomi Pass",
+    "city": "Hiomeaki",
+    "state": "LA",
+    "zip": "29124"
+  },
+  "contact": {
+    "phone": "(926) 356-2600",
+    "servicePhone": "800813892"
+  },
+  "birthday": "2002-11-12T05:31:16.876Z",
+  "ip": "60.71.17.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Bivevetok atuzu co fib vohlanle ded buus devtob cutmaweb ze bijvosjas bolit laehibo pisteste. Ova kus butta ragaoh oc ronom kuwgi ki doroji migil bagi bam fuluk bu gen kiddesaha. Muezce oza edeab wad nah jovin anpo huko bakub lojriz bucezias ij voavopa fohzete wozos hofigud.",
+    "bio": "Sefuona ibi did uko li eperajhic ebe etesih va gesi ta satuti bejda omsufgo. Ajwo ibautejo ozufe iwe liz ogogpu jumuwe bore jijokup der une cob umu wu. Ozida toho olcengu gegru todic vubpotabi bivlukku guhtofma tivik vot ot ah woco izdot dunpuwura febaw."
+  },
+  "apiKey": "f355981a476dbf50ba684ca256f4519ada96cb7893a6d567ca60bb9a5eee91bf",
+  "currency": {
+    "code": "SZL",
+    "name": "Swaziland Lilangeni"
+  }
+}
