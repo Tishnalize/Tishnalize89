@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Flores",
+  "age": 23,
+  "address": {
+    "street": "Ihalo Street",
+    "city": "Nepgozcu",
+    "state": "GA",
+    "zip": "35692"
+  },
+  "contact": {
+    "phone": "(616) 630-4417",
+    "servicePhone": "800128446"
+  },
+  "birthday": "1980-08-16T20:14:48.737Z",
+  "ip": "220.195.148.131",
+  "foo": "bar",
+  "profile": {
+    "about": "Suut lu pev mur medemket wifuco meuzow zerfigrap pib gomhe wik sutpivute zoivfa sina ribzuj ubepiz. Wiz wogwi ki egogel li hufuw wusapfo disavvoj risaba berte iltar azugimus omsefow bikgeas di enigas opcahfed. Akzoar kakwizso fopi re je ihne go non edseufa giw haphu zocdiv sew.",
+    "bio": "Mu zu pup juhume dupug zomse sujehfe fumnakte elwusza lavormin fennu weku mo ses nuzehjo cegnag. On badce isdete cawhoba one jem at oz pop ufe semci hoto im. Wigwicil evtazi muus aju kezol vajew pefgu bivuta henumum gat sod feiw fe muc. Soz bupnubos riz zenegde uc nig sowuhhet pis fop bi pag ikipor lidipnun jarip."
+  },
+  "apiKey": "b1bc7144195197b9659e0d066dd8f01f69e540ce839a5c502ae15cccabd42199",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
