@@ -1,0 +1,26 @@
+{
+  "name": "Randy Cortez",
+  "age": 54,
+  "address": {
+    "street": "Biju Pike",
+    "city": "Vibpingar",
+    "state": "CT",
+    "zip": "80082"
+  },
+  "contact": {
+    "phone": "(714) 508-5404",
+    "servicePhone": "800327917"
+  },
+  "birthday": "1963-09-17T12:41:00.489Z",
+  "ip": "200.183.131.79",
+  "foo": "bar",
+  "profile": {
+    "about": "Locuzigu ha lu pa rur pumef jukud lojeniza nof vedlok tujva urevucul. Lal coid tusatag nidok ca mamlu gudhojsu lugve zam hu ipume widru pib mizibe jor joni beno. Bo buc bihubule opowezo saz cawot he goba bumdaipi rebkebfe saevpif vinwow fadfi zapi gojilpit dutku ke lirvil. Vad testujlot uwiijso odowi cez omtukec evi vazuhe geg honva ku movnelba pisipzod seb biir fofeba asiwuzvi.",
+    "bio": "Hi tapoes tet ci kom bupa hiduscah luno dokic vouva tadca dihotu za loca oje onhuh. Ginabo gujonvo rikvuw mafza ko ote kobgu ilcefpa enger feaw gage arovoksi eti ibetucce. Kapa zi zo hur cawuw bojve pe ki bakodho novze je zaza tofribti."
+  },
+  "apiKey": "d698860d7f03ab3f338dd65dad55f4aac4ff63f9f0a6a37414f9e2d6522913ce",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
