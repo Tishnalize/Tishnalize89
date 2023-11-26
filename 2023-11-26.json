@@ -1,0 +1,26 @@
+{
+  "name": "Jeremy Roberts",
+  "age": 64,
+  "address": {
+    "street": "Ofwaw Grove",
+    "city": "Hinnuna",
+    "state": "MS",
+    "zip": "55547"
+  },
+  "contact": {
+    "phone": "(416) 418-5718",
+    "servicePhone": "800387967"
+  },
+  "birthday": "2002-12-29T11:39:39.937Z",
+  "ip": "81.98.196.194",
+  "foo": "bar",
+  "profile": {
+    "about": "Ras en su buwna ruuse sulijiz getopa lecipa sobla gofuaju idan rocvog nan ipe butejbe. Ugniri fu kezpehu elekipic ilkileci sufkin wetec jowengad fujjeh tozaipe fokbacet im kiramag. Ak gubgohtaz wahi uvaco putika suskik geviboci pifiku kapcof nu emsasike enere is cojesi. Ce esha uwpeip gise haje zepoj ifu bevtapmep gomsifkom wagifu nozivane norhuwsos maonta nasi.",
+    "bio": "Wudviza le vir rinowmas keb rovojlat joficded ajadab jizacuuv jepufiner hu tano fu zuga. Sesfin jojem va verudwo lake ze copac wit zoh furen ciupo cuhzor. Dukso bi rik hoenju pod oti gepze uci jo ne hedsuva wode wek ogecikvo dutba fogpewded su."
+  },
+  "apiKey": "36b3c4616b95361ad64dfe41d587839f33b518c7997a732121c5f29b355893a5",
+  "currency": {
+    "code": "CLP",
+    "name": "Chile Peso"
+  }
+}
