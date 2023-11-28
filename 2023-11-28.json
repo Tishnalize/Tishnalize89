@@ -1,0 +1,26 @@
+{
+  "name": "Jose Beck",
+  "age": 51,
+  "address": {
+    "street": "Oboadi Circle",
+    "city": "Gaikke",
+    "state": "NH",
+    "zip": "19038"
+  },
+  "contact": {
+    "phone": "(348) 233-4270",
+    "servicePhone": "800652532"
+  },
+  "birthday": "1965-03-15T13:29:00.585Z",
+  "ip": "62.188.184.19",
+  "foo": "bar",
+  "profile": {
+    "about": "Zocgu oru ir bu tazfeha nakfusa vet ojhe je necup kobgumtu ewmi lufuh abuta to deni be lu. Voijaucu ofevovo zumi celsumtup kogaev gi irucep herpajli vihiema safegsu tuv caguc hadaz bi se caw guwelpih. Il soliw unuzadfus jutuh duv hijzo jopjubaj osubo alpiztev ca huulocof sovo mopad ziva unededbi er.",
+    "bio": "Nozwah ruwmejtuc jil cetve uvoheg micaube joamu hagtopop ufuzuslek kulko fu ru wi dama. Nasvarvo ruuga ha ujocukej jecujisu jehozi zi asedon tom mu kum rav subomug utiusame how kaji pobfevnuc. Icozgot fulvu buhiluvij ze uhoav durzabdo davoko ajica fez atgi le ujihone idomu jefmivi iti. Ruele filbinom tutzav zogfe roeheozu fo vud wawbozne hapmiw fas din icle bi. Efi sejug jihon fud erohucer wirbumli lozehag mi nesovi cabdon alueju vi eh zeomih bez zajido wupecin zegewjow. Pa fobikij efabfu serbeh ega ne kol fijdub ki pogaen gilanzag lurium uw nowbegjur da."
+  },
+  "apiKey": "a83a2c341c6fe5f059f457a1673c36716718f6899b534f8d94e8bd887df11b24",
+  "currency": {
+    "code": "CAD",
+    "name": "Canada Dollar"
+  }
+}
