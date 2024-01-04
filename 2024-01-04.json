@@ -1,0 +1,26 @@
+{
+  "name": "Belle Jordan",
+  "age": 22,
+  "address": {
+    "street": "Vujak Way",
+    "city": "Uzelogje",
+    "state": "CO",
+    "zip": "27148"
+  },
+  "contact": {
+    "phone": "(205) 973-9154",
+    "servicePhone": "800547733"
+  },
+  "birthday": "1965-07-03T09:52:11.407Z",
+  "ip": "178.127.67.244",
+  "foo": "bar",
+  "profile": {
+    "about": "Odanismoz fide numjof kumo etavcat zepiac obo ke ujilu na zal oca woscedef ba ki. Zilsi cuteftef egtihlas wisatdi zerpu vakjowpil fazsu ir ufueka rak map navjial obkioki fut perabon cafsuv ne ro. Jioc peaguga laawo obpel beotmek iwoko teavusu remiwzu vuswo lasi mehde jowlerpos lezfefoh ikikecmog guzvehneb gowci lo ijbef. Kijeuf mufmazzus kabuewa muzo awojunap ti aciteram fukon sarolo cac it za.",
+    "bio": "Ce pov sokdimes pukhit jutid ogfopon wovad avi huztu sajavi ci osci no da wivmuc pi. Fugiaj ho neja minogfag razus apru ki wobhas pope duetu itaagakek adauru suwbez feve doepu. Nijaj het pifokuh totovu watge torip riwa fal pojesa ugose lo fikepa fob."
+  },
+  "apiKey": "c376fd7867fe72424a8ff1b6565c4561cdbc092d76150b04c72ef578637bd24e",
+  "currency": {
+    "code": "VND",
+    "name": "Viet Nam Dong"
+  }
+}
