@@ -1,0 +1,26 @@
+{
+  "name": "Mable Garza",
+  "age": 62,
+  "address": {
+    "street": "Zazul Circle",
+    "city": "Falosewi",
+    "state": "UT",
+    "zip": "12304"
+  },
+  "contact": {
+    "phone": "(386) 207-3765",
+    "servicePhone": "800734136"
+  },
+  "birthday": "1965-08-08T17:53:52.765Z",
+  "ip": "207.233.64.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Ogi jozro belupa zevok buubuke zo ov eha hefjobbof ditovu cerakcaw uvfeg pasapzu oluuw ce. Sorsa vahot revomgi amewiviz kakij woobta gimno zooj wu zem ucoagret kat holdaiw fizecal wufnav. Si jal di aja tecawu ojuhuvi fapgi gum pozlowbu odaraijo fi deg wew nos fasmepo uregephi le. Nuhpeleb bi fopfapac ki owiruiru ikiapu poolepe buabevom wi oda bospedar da hu wew nuarekeb nohwa. Vi ga fe kuluf en ahiesabob jiwfa paretu givuvmo bi zib rorun taztufo kega fawu sac.",
+    "bio": "Cak hejhivir macliddo bejunekul zioz ig odi afza dees gefu taci robzus ka ub fib orjoj. Ro nej wu lijzi mefaer cuh paano hegdip tagukkah tez luc ov. Robpaweme wi jaeke lirpu nushuup za gu hiv usunapged jorinpis kuboha puvbim im cuhpe sebwaw sa. Nogabo gedfijwe vubifem ophawda icuva wi nogvugpi la ukuco kelog bepebje lajkal egi ochiwovu gositi ofedesu bige ejeplo."
+  },
+  "apiKey": "3e05cfa2cfe7d5090b5b310218d446576c0007107352dadf8a01e0b91a487eb1",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
