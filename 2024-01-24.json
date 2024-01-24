@@ -1,0 +1,26 @@
+{
+  "name": "Lina White",
+  "age": 30,
+  "address": {
+    "street": "Duoz Glen",
+    "city": "Manjoka",
+    "state": "UT",
+    "zip": "05504"
+  },
+  "contact": {
+    "phone": "(341) 286-4766",
+    "servicePhone": "800764379"
+  },
+  "birthday": "1998-12-16T02:55:11.905Z",
+  "ip": "3.129.66.105",
+  "foo": "bar",
+  "profile": {
+    "about": "Hesafu ka gu um puk wi ilopu buhal suruzipu di wig dibogi pit bimij ru. Vaghuep mifmul pi dubaj ecabu gepoafa wa zuaselan pi sa ful uce fa tozamo. Keb aka ave fatgoma hakcakec comu bodirfac vamkacce ug elpoel unigeza vi linar ilnih ta. Cokeptub edozujo afile poida sukdohsa bukcun su ga potpuc ugosohi gekcem eb gi.",
+    "bio": "Vor kafihu voojiwa te vuko minubwo ruphet wiagab vikibdaf jeh lerlereh gewpetasa gizro pigezojes karul wugu ozewefle ruhuc. Sehcesrer nad zozahtiw pipa mowba utuup nijfa ijhap er darim ceaku uvisazan koazwa wuvil we obu telu vir. Ce we kenadbat wibopir lanfaro eca tes fupi ob zi be secjifi vorov uspeswo hezazu."
+  },
+  "apiKey": "30ee66723a46c4e306aaa6ef50e0d60e553fdf04a9985dd57f5b631a2b905a25",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
