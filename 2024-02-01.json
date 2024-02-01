@@ -1,0 +1,26 @@
+{
+  "name": "Ryan Horton",
+  "age": 61,
+  "address": {
+    "street": "Upvoj Ridge",
+    "city": "Ummido",
+    "state": "UT",
+    "zip": "80199"
+  },
+  "contact": {
+    "phone": "(469) 983-1561",
+    "servicePhone": "800891471"
+  },
+  "birthday": "1989-04-27T11:48:14.607Z",
+  "ip": "241.6.134.51",
+  "foo": "bar",
+  "profile": {
+    "about": "Bobiaje wev idviesa morrocti urrem ripgik wo iketiza ehuadigol ufeececu ku inu kuuve dibjul uweligva tijirnu kabvuhkel. Capmowgir to to vavado hobifu ro safgid zeldurmib gema hufhid utehevna lezehlo dapo wuckindun. Orohulzu tib citkov zanavko kiwuoze po jeka figa mitpeci eznopa ibrabod gevge cesbihhi. Siajgun up bajzafi in ha imula epolazeh luhvadis co fi mapu si wihwiv pihkuvi ufgo golapi iko.",
+    "bio": "Inisaodi rorbab durtejhiw awazud dozurjuf cawij tod fiba ga kagzo honzolbaw uti wezmiv na apucun toweka. Mi zentaur wu lecusa num gefri taci kucu ropfeuj nohu aki am aji. Woc va rugigvi unu terra espi gafekobi sicefu kuc umnit zuwvu ezkumtew piezofot cuwubu uwfutwek du bafi."
+  },
+  "apiKey": "629d1a5001826bfb64a950f303808b3ff62552886f2817dd4c1ef5d9733a4c2f",
+  "currency": {
+    "code": "BRL",
+    "name": "Brazil Real"
+  }
+}
