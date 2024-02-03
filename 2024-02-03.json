@@ -1,0 +1,26 @@
+{
+  "name": "Fred Parker",
+  "age": 44,
+  "address": {
+    "street": "Pufoj Avenue",
+    "city": "Danekar",
+    "state": "SC",
+    "zip": "83904"
+  },
+  "contact": {
+    "phone": "(434) 278-7221",
+    "servicePhone": "800886819"
+  },
+  "birthday": "1981-11-22T21:17:01.063Z",
+  "ip": "24.41.13.107",
+  "foo": "bar",
+  "profile": {
+    "about": "Nabi fet lughapos ihutoha za natavhit dioha emedpi itulih is girwemi belkealo vajtab mehekjor viluasi. Taogu ti buugugug onateg uvgi ko he zev pavwo neic bubazooz ned riv zal ge anaf. Ic vuhe ug jeksigeg zuvut aj arijaj kavpukcuk api wadhiwbem ocno tidizfi. Ma uszomjan faga pavudo na tum jo ga demca zemaz iho lakruv toj ped tebes ozgaf ponu ginlike. Toudwu ifbojug mos jusihu zemega ug dobed ha fek mujwam botpi ukjefop soneuw piwo. Docvenob unu si buszije nopow zorcir is osge gamukig ca pud sa sog ho so uvu. Pood tu hunefije pi um pedru sewkeguvo imzoto laejiumo lusnas voet hecuk.",
+    "bio": "Ecol lihfiz jodpojum nitwu zowkiw ko bodagkip sotsob fa imo arokasu ronba sohjiika eb evwaefa ravlupped gaziur. Bave sacundar kanuwcu dec naot ammouk vapto wu ova lebasva jajda gumasma fudwa. Gujri dokkikwik sati zigsuwac tanubiv sicce wa roun omsaj fup cewig uwuso fi. Lavida vuj laaruge ozivozro ge wific ca zo ladfigele kevof pusson tag. Kegas jorohred polumeh wajsap du hi potawfu edierolih pog bardedon nijir vozfon dek icleek. Rivboj pis hewpud ti umoju wubenfo ci nucweka kop uruce rit kob cidohve fowgilkif tukugpoh bemouj. Lukuwuazi cijzoc emaze be numovep tuahela ot nivjewced nut riz ohguv wupo afeibcaz emzodu koh tidcowo."
+  },
+  "apiKey": "54e3d99079897a0f8b726976ab0f36ad53dad983683be721c58189a4b78ae32d",
+  "currency": {
+    "code": "BMD",
+    "name": "Bermuda Dollar"
+  }
+}
