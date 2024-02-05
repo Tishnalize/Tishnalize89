@@ -1,0 +1,26 @@
+{
+  "name": "Theresa Gilbert",
+  "age": 26,
+  "address": {
+    "street": "Zugvi Road",
+    "city": "Atulotag",
+    "state": "WA",
+    "zip": "48044"
+  },
+  "contact": {
+    "phone": "(910) 513-9680",
+    "servicePhone": "800328978"
+  },
+  "birthday": "1971-07-25T03:27:42.912Z",
+  "ip": "142.77.167.10",
+  "foo": "bar",
+  "profile": {
+    "about": "Navob navul jearagah liri fukafazu ewupinak izelute hikeme co iriehzem succu ro morob otesim. Burah po sindari ki bacu midfodug ad nufmufgo ken di cekfipu ob ari la silcuh gedag. Aw cere zaufafan wefmo oj tuh weshi ja ewout hibeciazu hijvej mobkukos. Bo fuafu juswavo iwhuf hone ge ef lis ahezosuf ura em ah mocorzur hubhah camoor caz ben wac. Vu setwi jijik pikafevaf fof tawaw bovwahve saoh woto isebezku cuk feun timizisi er zahki urani.",
+    "bio": "Sovugo cuju esawij korep luf neza asaar ozuwuz pud uca van ho. Iwu luihubi doiv po tafumo enjozwi upiatu far silbe lipin sef odnamhaf. Bathis vatuj bizi bumcef uh vat umi emarizku up tiweiz pefame imulu."
+  },
+  "apiKey": "d64ad2ce7c8abcda645f5a5dbcb8530d2d83adcbff7f13642bcf48a3935c05a8",
+  "currency": {
+    "code": "FJD",
+    "name": "Fiji Dollar"
+  }
+}
