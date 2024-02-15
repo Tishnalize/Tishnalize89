@@ -1,0 +1,26 @@
+{
+  "name": "Pearl Hale",
+  "age": 25,
+  "address": {
+    "street": "Wasfo Key",
+    "city": "Limoko",
+    "state": "AR",
+    "zip": "73088"
+  },
+  "contact": {
+    "phone": "(602) 936-6393",
+    "servicePhone": "800733449"
+  },
+  "birthday": "1961-05-31T21:16:50.751Z",
+  "ip": "106.23.189.196",
+  "foo": "bar",
+  "profile": {
+    "about": "Davur imareus ahetek nahadu fawom gacum iki homuz uw fibvud misuzfa uvnopfu metnilhuh vommot. Luahi refwovwov zuk widge wora fug ugirajeg no fe piafajog ni fe kihubwuw ekefte vu ipuvo namadib lolatlog. Ako ipoho miljicib sean wuswi ughunaj upupucsog feowabe ilzu ekeci poismof wa wok ipesin cunsiv.",
+    "bio": "Lemoscu fobeganew ecbez heucodu fahakhet cik ku ge uvpew maviw majkejbuz duwna. Weep kij zaszodti ran uve rawpad abaif zo ciku si cegveum ug. Eza ujoafe uruwahzo menep nukha ju zekuvli tu mok irnat cohsantis hiktuipa tec dide gakigos if kuvlu."
+  },
+  "apiKey": "4e04818cc877ad3cbc0582c74d5b56add370bd76e0db6da678d614a0bfc5e92e",
+  "currency": {
+    "code": "BAM",
+    "name": "Bosnia and Herzegovina Convertible Marka"
+  }
+}
