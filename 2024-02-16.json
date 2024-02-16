@@ -1,0 +1,26 @@
+{
+  "name": "Nettie Price",
+  "age": 35,
+  "address": {
+    "street": "Turu Place",
+    "city": "Istaeb",
+    "state": "ID",
+    "zip": "17260"
+  },
+  "contact": {
+    "phone": "(606) 258-4319",
+    "servicePhone": "800495646"
+  },
+  "birthday": "2002-07-27T21:47:25.844Z",
+  "ip": "157.154.99.128",
+  "foo": "bar",
+  "profile": {
+    "about": "Biruj lezcundiv buvi zaama omi wobigvig kafipoewi nav teroliun vibugiin civ duamieru med wulsimob. Nakkevza mazikvi ham vefahas lec bemun dowukgew ila kuvozwe eda tan do nifakhal zajucibo. Viagu akefaluv japecpe fuzuj gusif hibiv toce mulitce ke huj wukijpoc fi fuchutcel ga dev. Gacmacpuj semgotgo jafu utjelpic tet web gi jubleubo esa pamo rura no ama putji mav sovutu.",
+    "bio": "Te idka der nam cocbin ujmos duf daogu ocewi cikata vejew tavjubmic borocdot. Tutikev nuwbomfo budleh rak otu gec wom fo kam udo sahjo ceot. Ti ige fevpeg picin oririvwi fu fakbifcel viwodi baj ebojcep bairuwa ropagino iruvinef bubrok dunoz pigjodop."
+  },
+  "apiKey": "db9b84b712049843d1a805d389b28a7a1b31f45b363582d6f99c4aec6b840140",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
