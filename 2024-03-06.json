@@ -1,0 +1,26 @@
+{
+  "name": "Ada Bridges",
+  "age": 26,
+  "address": {
+    "street": "Hoclec Square",
+    "city": "Caluru",
+    "state": "AL",
+    "zip": "67626"
+  },
+  "contact": {
+    "phone": "(840) 581-9186",
+    "servicePhone": "800246387"
+  },
+  "birthday": "1996-01-01T19:52:09.663Z",
+  "ip": "11.15.118.208",
+  "foo": "bar",
+  "profile": {
+    "about": "Wubzagen za iz polu ode gefepiko nerti rimkusos ac vutari vegej sosajezo cefatit efko haed huopeep turbumeb. Asica hujuztes sojupgim za ditid su fecuduvi vakodmi cokaho lizmiftu komjan pok. Ze baok bi holteg pavvape somewu canguha acko du pit ega ilwucop hiobu izaveac ozbed fuw ossuwhu riwirut.",
+    "bio": "Evdaz ecitovde buhzep von ju somnif zaac gef kotaraleh sekrihkod topbe ipaepopop erafucku. Mende goh zoafedi so uhait zejunkon wew nume bacacwa wicrof no wewuh kevecu napidkiv jugin dak vaocmut luwized. Istoc buvapik gunujho revvaf apebakut usa sa me mujojegi pimfanu anoel miut pes. Duvzerca pu pihalov pusuha bo ar rib dezuc jad low paemudor ma bi lugektuh demo sejjivir mafbaltu ulomi. Zekbi ro wi ibaboc cevit tesunji lemhabwa atuok jomazze uciveij dudecpo be wenisod am nijipe cev. Pot nubni nit lujitfe gevnu zicmefle jik rafwep jiah ewitiz maewbeh soedunan lufervak cehu hufewsuj."
+  },
+  "apiKey": "b61c801829a5488f9b4a72416201292df6803f9700c76156c71bfa4f34e82689",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
