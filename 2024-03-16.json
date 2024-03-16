@@ -1,0 +1,26 @@
+{
+  "name": "Ada Fields",
+  "age": 45,
+  "address": {
+    "street": "Fasted Extension",
+    "city": "Sakwave",
+    "state": "OR",
+    "zip": "28353"
+  },
+  "contact": {
+    "phone": "(321) 331-4787",
+    "servicePhone": "800414849"
+  },
+  "birthday": "1983-04-09T09:13:58.685Z",
+  "ip": "101.109.189.116",
+  "foo": "bar",
+  "profile": {
+    "about": "Fihorka dahez pive lalnedez li nafubfo epo vuj vif sibjaswi vo fulo elusic. Jurtus edaluz cup gin fin zac atiga hogmek pide zazdopav anu bupegi fouz. Dijjag luj jalpugu niar gud gadozu adaosle ni vocwar dov laf ka umpame deme zizsen reruodu. Hit kuzivzum lem zeruzo nictalina jahalata jihasow mup ismo tuge pepigkaw zuji til lut uraiki. Rehkigjuv gis bow nadkidi cubmacos idocoozu gofsav fun vuta mib nazka weore. Geghurka ocecoj beb fizeg he siiweju gak kijakbu re bino bazozzur mij luezo zuvvespe.",
+    "bio": "Bugaig zeros zahnewdi zooze robu ojimejem pu ne habvomgat ratnichik omuefov iruze ige po ja umucgo calopin ti. Car icoriada azodindek nipgodtew ka mudbar aki matbad ti hevar ecta verivlu wagpibpaw tuj segewun. Rogulhus hoccaz wehbuiw ba lalvaseh zuwtuuti id niragpaf rif ada zi pahutvu zontuf urvuvbof. Haghitho sugu corror tem wu ajoocu gedbir pa ne lozoweofo det mul biibuag og renipo. Ligi kiwwe banpa mokcof hibuci actenuz ima ewmag puwedoj zacmog ivi hiwno elatopubo dotuv misoc. Vet labjute vik secdod ezrarude lutdibheb toinmer il komakki doip gag jafovjem gumo tijhehe uhu."
+  },
+  "apiKey": "407ec3a319b650da742741254d5b4cf4942e4f8bf170787764183ecc85d48000",
+  "currency": {
+    "code": "GEL",
+    "name": "Georgia Lari"
+  }
+}
