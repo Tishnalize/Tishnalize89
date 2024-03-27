@@ -1,0 +1,26 @@
+{
+  "name": "Chris Weaver",
+  "age": 24,
+  "address": {
+    "street": "Ruwve Park",
+    "city": "Luvowna",
+    "state": "NH",
+    "zip": "37949"
+  },
+  "contact": {
+    "phone": "(315) 699-4429",
+    "servicePhone": "800523642"
+  },
+  "birthday": "1970-01-14T11:18:21.270Z",
+  "ip": "178.38.164.148",
+  "foo": "bar",
+  "profile": {
+    "about": "Ci hopav jiarimu hueri boh mame gedvu jeguted gibauti vab fo nanupcig eku ufpufir zoznuslab pivri cecbajos tojujib. Kopipet ureuz nemizo top uchifu rojijgo wa lijono hifhi wuzdeve mizi cer. Revafam asitec ral fabeneh cerlupaz wik dis efen uf defa do odba gerba fetpavke kiiglih ce. Vew jika giz diwwav ovecuere ted tu ba kelafav voj behdos zapikgu emo ojiri hotup palhusrud ki.",
+    "bio": "Utojome bem heleguc jon go iw vifkak webot beimo ediirdag debjafnu ga wunuwwe esdo numawi. Asonivvo zapul jif puk nurbo ojo nu gezasku od setuve cur si wijuh vehbem ed ropwupwis itotusge. Lerid zil zetipew iz gewdozwo rihit vaksu ikfibdu locdipoz wap sof ma mih umitid omde fi. Ba behheknuj uge rovlukoj jemfozge tepegzuf pozmis aha opelpi uhvivpaz hofozufe viburfi ewaelobir ga. Keveddif ekeka asatu cagozsa emu hur eziubuhil he usiigekot olaolodaf focalpoh bukbov vilaci zoj kizi pisjuhtib sis."
+  },
+  "apiKey": "35cbc8f2f1c94d84bd071d9a12c970def24928928167ace8cbbbee460f71c032",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
