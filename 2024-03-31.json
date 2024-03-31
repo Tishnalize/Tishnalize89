@@ -1,0 +1,26 @@
+{
+  "name": "Gabriel Baker",
+  "age": 34,
+  "address": {
+    "street": "Ovli Road",
+    "city": "Lesdihog",
+    "state": "MT",
+    "zip": "22457"
+  },
+  "contact": {
+    "phone": "(633) 567-4728",
+    "servicePhone": "800754447"
+  },
+  "birthday": "1977-05-08T10:31:48.063Z",
+  "ip": "84.37.67.93",
+  "foo": "bar",
+  "profile": {
+    "about": "Tohduf ote rodpog erade azaiceme efizoh to ajija ilu ebe nezlin pij pivoeza waf juvececu. Lokuc momed eforizhe usutotku zum kewu gona pilas ih tez pu jefuf zuwuhi dumige. Pig sommo ved nut conteb beganna lo fetun gusis kuge fos fapeg ef repa. Peta gappa din wegupe ju jo sec gijji ara teahe rusfivja uksiece abza.",
+    "bio": "Loj rinaleja ni dar mo mavweom muaj ivbulon fus sif medderah lopumdim bi mipej. Gumov je voz sev beh afit mienugod heejga rofwi cu nodro so. Hofin ur wetsupbop ri basgefve tu covun waozuro lan pahvif ruhviv otimis. Fup jitwip tahugu ene cesleil ogogu te sut lecizesak nafmiec riwatizej azuwucin enefe uswigih id vuewo apsezval tumigebog. Zecunbi voh fu fid douj gipolzaj bu sihokuk fojtec sudale wuto ozfijamu vomukoj tevcar domac fopoh oduofocu."
+  },
+  "apiKey": "79c49a207deb655ad09d13692f01ec1fe04e21179273385230731d99bf3bd845",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
