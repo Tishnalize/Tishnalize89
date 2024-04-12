@@ -1,0 +1,26 @@
+{
+  "name": "Theresa Diaz",
+  "age": 55,
+  "address": {
+    "street": "Jezegu Highway",
+    "city": "Ogerpa",
+    "state": "DE",
+    "zip": "56987"
+  },
+  "contact": {
+    "phone": "(389) 388-6193",
+    "servicePhone": "800725599"
+  },
+  "birthday": "2005-11-04T04:00:20.133Z",
+  "ip": "230.254.208.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Vim mocip luh cop pevfa pihmi mub newzeti no ri es eb gu cuc ji rigobavel az. Otomegju tufo or demsupcod wo lihzu bicpim po are wen zonne ga gajurder cululod mihzemti pizkan ice. Jibjahcur uzogogu ushalu zaru retka rinagej hi locoj rusaz cin cuab lengerih ruifja. Weci povcop akwu nuhsam aklop ro egavzo ad vol afo cat nov won lamesne.",
+    "bio": "Sokbar sudvudute dosbepkeb ceburof jibbuju desdo ik zuzacpu efticku iradel wol comgus mudcide agivsil. Manjetah vaahul ti jilehvik pimfog ma jaw ilopemoj mec edefibih negvaif wuj. Letodowi cokipbat cotbicu ogsun ihuse vup ohuzebi duz arugita ke wej usa nulpo gugozib."
+  },
+  "apiKey": "9aed6cf046264ee6c346319062e4523ec11e92dd4b832c4c848715d07d21abbe",
+  "currency": {
+    "code": "HTG",
+    "name": "Haiti Gourde"
+  }
+}
